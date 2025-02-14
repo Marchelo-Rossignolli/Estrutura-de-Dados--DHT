@@ -1,2 +1,4 @@
-# Estrutura de Dados - HT e DHT
- Material de apoio para a aula de Estrutura de Dados - HT e DHT
+# Estrutura de Dados - DHT
+ Ponderada de prog feita por Marcelo Rubim Rossignolli
+
+ 
